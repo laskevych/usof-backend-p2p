@@ -1,0 +1,14 @@
+{
+  "passwordSalt": "$usof#2024",
+  "sessionSalt": "#usof$2024",
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "alaskevych",
+    "password": "securepass",
+    "database": "usof_backend_p2p",
+    "connectionLimit": 10,
+    "waitForConnections": true,
+    "queueLimit": 0
+  }
+}
